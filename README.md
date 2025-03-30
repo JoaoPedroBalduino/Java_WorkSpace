@@ -1,4 +1,4 @@
-# 🧠 Java_WorkSpace
+# ☕ Java_WorkSpace
 
 Bem-vindo(a) ao meu repositório de estudos em **Java**!  
 Aqui você vai encontrar diversos projetos simples que estou desenvolvendo enquanto aprendo e pratico a linguagem.
