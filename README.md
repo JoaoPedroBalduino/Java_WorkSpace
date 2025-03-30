@@ -3,6 +3,8 @@
 Bem-vindo(a) ao meu repositório de estudos em **Java**!  
 Aqui você vai encontrar diversos projetos simples que estou desenvolvendo enquanto aprendo e pratico a linguagem.
 
+![alt text](image.png)
+
 ## 📚 Sobre
 
 Este repositório é um espaço dedicado a:
@@ -23,6 +25,9 @@ Alguns dos projetos que você pode encontrar por aqui:
 - Manipulação de arquivos `.txt`
 
 *(A lista vai crescendo conforme eu aprendo mais!)*
+
+![alt text](image-1.png)
+
 
 ## 🛠️ Tecnologias utilizadas
 
