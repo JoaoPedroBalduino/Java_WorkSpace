@@ -1,0 +1,18 @@
+package udemy_java_2;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Aula_19 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Locale.setDefault(Locale.US);
+
+		System.out.println("Digite um número: ");
+		int a = sc.
+	
+		
+	sc.close();
+	}
+
+}
